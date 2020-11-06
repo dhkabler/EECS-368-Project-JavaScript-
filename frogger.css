@@ -1,0 +1,44 @@
+.board
+{
+    border: 2px solid;
+    flex-wrap: wrap;
+    display: flex;
+    height: 360px;
+    width: 360px;
+}
+.board div
+{
+    height: 40px;
+    width: 40px;
+}
+
+
+.finishBlocks
+{
+    background-color: yellow;
+}
+
+.c
+{
+    background-color: red;
+}
+
+.s1, .s2, .s3
+{
+    background-color: grey;
+}
+
+.w
+{
+    background-color: blue;
+}
+
+.l1, .l2, .l3
+{
+    background-color: brown;
+}
+
+.frog
+{
+    background-color: green;
+}
